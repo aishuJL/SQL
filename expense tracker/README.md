@@ -1,10 +1,10 @@
-# 💰 Expense Tracker
+# Expense Tracker
 
 A beginner-level SQL project that demonstrates database design, table relationships, and query writing using MySQL — built to track daily expenses, categories, budgets, and monthly summaries.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 expense_tracker/
@@ -17,7 +17,7 @@ expense_tracker/
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 The system consists of **3 tables:**
 
@@ -29,7 +29,7 @@ The system consists of **3 tables:**
 
 ---
 
-## 🔗 Entity Relationship
+## Entity Relationship
 
 ```
 users ──< expenses >── categories
@@ -37,7 +37,7 @@ users ──< expenses >── categories
 
 ---
 
-## ⚙️ Setup & Usage
+## Setup & Usage
 
 ### Prerequisites
 - MySQL 8.0+
@@ -68,7 +68,7 @@ users ──< expenses >── categories
 
 ---
 
-## 📊 Sample Queries Included
+## Sample Queries Included
 
 - View all expenses with user and category
 - Total spending per user
@@ -81,7 +81,7 @@ users ──< expenses >── categories
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 - `CREATE TABLE` with constraints
 - `PRIMARY KEY` & `FOREIGN KEY`
@@ -95,7 +95,7 @@ users ──< expenses >── categories
 
 ---
 
-## 📌 Sample Data
+## Sample Data
 
 - **3 Users** — Arjun, Priya, Rahul with different budgets
 - **6 Categories** — Food, Transport, Entertainment, Shopping, Education, Health
@@ -103,7 +103,7 @@ users ──< expenses >── categories
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - [ ] Add stored procedures for monthly budget alerts
 - [ ] Create views for per-user expense summaries
@@ -112,12 +112,12 @@ users ──< expenses >── categories
 
 ---
 
-## 👤 Author
+## Author
 
 **Aishu** — [@aishuJL](https://github.com/aishuJL)
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
