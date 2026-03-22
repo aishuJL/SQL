@@ -1,4 +1,4 @@
-# 🗄️ SQL Projects
+# SQL Projects
 
 This repository contains SQL projects built using MySQL — focused on real-world database design, structured querying, and relational data management.
 
