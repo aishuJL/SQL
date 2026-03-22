@@ -1,10 +1,10 @@
-# 🎓 Student Management System
+# Student Management System
 
 A beginner-level SQL project that demonstrates database design, table relationships, and query writing using MySQL.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 student_management_system/
@@ -17,7 +17,7 @@ student_management_system/
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 The system consists of **5 tables:**
 
@@ -31,7 +31,7 @@ The system consists of **5 tables:**
 
 ---
 
-## 🔗 Entity Relationship
+## Entity Relationship
 
 ```
 students ──< enrollments >── courses
@@ -41,7 +41,7 @@ students ──< attendance >── courses
 
 ---
 
-## ⚙️ Setup & Usage
+## Setup & Usage
 
 ### Prerequisites
 - MySQL 8.0+
@@ -72,7 +72,7 @@ students ──< attendance >── courses
 
 ---
 
-## 📊 Sample Queries Included
+## Sample Queries Included
 
 - View all students and courses
 - Student enrollments with course names
@@ -83,7 +83,7 @@ students ──< attendance >── courses
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 - `CREATE TABLE` with constraints
 - `PRIMARY KEY` & `FOREIGN KEY`
@@ -95,7 +95,7 @@ students ──< attendance >── courses
 
 ---
 
-## 📌 Sample Data
+## Sample Data
 
 - **5 Students** — Arjun, Priya, Rahul, Sneha, Vikram
 - **4 Courses** — Mathematics, Computer Science, Physics, English
@@ -105,7 +105,7 @@ students ──< attendance >── courses
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - [ ] Add stored procedures for grade calculation
 - [ ] Create views for report cards
@@ -114,13 +114,13 @@ students ──< attendance >── courses
 
 ---
 
-## 👤 Author
+## Author
 
 **Aishu** — [@aishuJL](https://github.com/aishuJL)
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
  
