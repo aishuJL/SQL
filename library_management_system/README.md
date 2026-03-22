@@ -1,10 +1,10 @@
-# 📚 Library Management System
+# Library Management System
 
 A beginner-level SQL project that demonstrates database design, table relationships, and query writing using MySQL — built to manage books, members, borrow records, and fines.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 library_management/
@@ -17,7 +17,7 @@ library_management/
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 The system consists of **4 tables:**
 
@@ -30,7 +30,7 @@ The system consists of **4 tables:**
 
 ---
 
-## 🔗 Entity Relationship
+## Entity Relationship
 
 ```
 members ──< borrow_records >── books
@@ -40,7 +40,7 @@ borrow_records ──< fines
 
 ---
 
-## ⚙️ Setup & Usage
+## Setup & Usage
 
 ### Prerequisites
 - MySQL 8.0+
@@ -71,7 +71,7 @@ borrow_records ──< fines
 
 ---
 
-## 📊 Sample Queries Included
+## Sample Queries Included
 
 - View all members and books
 - All borrow records with member and book names
@@ -85,7 +85,7 @@ borrow_records ──< fines
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 - `CREATE TABLE` with constraints
 - `PRIMARY KEY` & `FOREIGN KEY`
@@ -99,7 +99,7 @@ borrow_records ──< fines
 
 ---
 
-## 📌 Sample Data
+## Sample Data
 
 - **5 Members** — Arjun, Priya, Rahul, Sneha, Vikram
 - **6 Books** — The Alchemist, Clean Code, Atomic Habits, Harry Potter, Deep Work, Database Design
@@ -108,7 +108,7 @@ borrow_records ──< fines
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - [ ] Add stored procedures for automatic fine calculation
 - [ ] Create views for member borrow history
@@ -117,12 +117,12 @@ borrow_records ──< fines
 
 ---
 
-## 👤 Author
+## Author
 
 **Aishu** — [@aishuJL](https://github.com/aishuJL)
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
